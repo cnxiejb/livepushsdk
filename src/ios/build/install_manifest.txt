@@ -1,0 +1,2 @@
+/Users/xiejinbao/Documents/livesdkProject/src/ios/../../package/ios/./libLiveSDKlib.a
+/Users/xiejinbao/Documents/livesdkProject/src/ios/../../package/ios/./LiveSDKiOSApi.h

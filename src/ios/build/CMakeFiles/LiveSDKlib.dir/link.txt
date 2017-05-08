@@ -1,0 +1,1 @@
+ar qc libLiveSDKlib.a  CMakeFiles/LiveSDKlib.dir/Users/xiejinbao/Documents/livesdkProject/src/HelloWorld.cpp.o CMakeFiles/LiveSDKlib.dir/LiveSDKiOSApi.mm.o
