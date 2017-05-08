@@ -1,3 +1,5 @@
 
 /src/ios/build/*
 /package/*
+/src/libs/*
+/src/obj/*
